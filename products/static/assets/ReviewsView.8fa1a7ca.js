@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,a as e}from"./index.64149771.js";const c={},n={class:"flex-1 flex flex-col md:w-2/4 self-center"},r=e("h1",{class:"font-bold text-3xl text-green-500"},"Reviews",-1),a=e("p",null,"Nothing yet. Kindly share your experience.",-1),_=[r,a];function l(i,d){return s(),o("main",n,_)}var x=t(c,[["render",l]]);export{x as default};
